@@ -1,0 +1,50 @@
+{
+  "extensionName": {
+    "message": "Nerzors Audible Volume"
+  },
+  "extensionDescription": {
+    "message": "Lautstärke, Stummschaltung und Dark Mode direkt im Audible-Webplayer. Einstellungen werden lokal gespeichert."
+  },
+  "localeCode": {
+    "message": "de"
+  },
+  "volumeLabel": {
+    "message": "Lautstärke"
+  },
+  "volumePercent": {
+    "message": "$amount$ %",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "28"
+      }
+    }
+  },
+  "volumeAccessibleValue": {
+    "message": "$amount$ Prozent",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "28"
+      }
+    }
+  },
+  "waitingForAudio": {
+    "message": "Warte auf den Audioplayer …"
+  },
+  "storageError": {
+    "message": "Einstellung konnte nicht lokal gespeichert werden."
+  },
+  "mute": {
+    "message": "Stummschalten"
+  },
+  "unmute": {
+    "message": "Ton einschalten"
+  },
+  "darkMode": {
+    "message": "Dark Mode einschalten"
+  },
+  "lightMode": {
+    "message": "Hellen Modus einschalten"
+  }
+}
