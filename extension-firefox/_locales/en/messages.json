@@ -1,0 +1,50 @@
+{
+  "extensionName": {
+    "message": "Nerzors Audible Volume"
+  },
+  "extensionDescription": {
+    "message": "Volume control, mute and dark mode directly in the Audible web player. Settings are stored locally."
+  },
+  "localeCode": {
+    "message": "en"
+  },
+  "volumeLabel": {
+    "message": "Volume"
+  },
+  "volumePercent": {
+    "message": "$amount$%",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "28"
+      }
+    }
+  },
+  "volumeAccessibleValue": {
+    "message": "$amount$ percent",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "28"
+      }
+    }
+  },
+  "waitingForAudio": {
+    "message": "Waiting for the audio player …"
+  },
+  "storageError": {
+    "message": "The setting could not be saved locally."
+  },
+  "mute": {
+    "message": "Mute"
+  },
+  "unmute": {
+    "message": "Unmute"
+  },
+  "darkMode": {
+    "message": "Enable dark mode"
+  },
+  "lightMode": {
+    "message": "Enable light mode"
+  }
+}

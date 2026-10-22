@@ -1,5 +1,11 @@
 # Changelog
 
+
+## 0.3.0 — 2026-10-22
+
+- A separate Firefox build, starting from version 142, featuring a stable add-on ID and an explanation—with no data collection.
+- The minimum required Gecko version for desktop has been lowered from 142 to 140, ensuring that Mullvad 140 does not fail due to the manifest.
+
 ## 0.2.0 — 2026-10-22
 
 - Initial public release.

@@ -15,8 +15,8 @@
 <!-- Tested on :> -->
 <p>
   <img src="https://img.shields.io/badge/Tested%20on-Google%20Chrome-1B1F2B?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=1B1F2B" alt="Tested on Google Chrome"/>
-  <!-- <img src="https://img.shields.io/badge/Tested%20on-Firefox-1B1F2B?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139&labelColor=1B1F2B" alt="Tested on Firefox"/>-->
-  <!-- <img src="https://img.shields.io/badge/Tested%20on-Mullvad%20Browser-1B1F2B?style=for-the-badge&labelColor=1B1F2B" alt="Tested on Mullvad Browser"/> -->
+  <img src="https://img.shields.io/badge/Tested%20on-Firefox-1B1F2B?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139&labelColor=1B1F2B" alt="Tested on Firefox"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Mullvad%20Browser-1B1F2B?style=for-the-badge&labelColor=1B1F2B" alt="Tested on Mullvad Browser"/>
   <img src="https://img.shields.io/badge/Tested%20on-Opera-1B1F2B?style=for-the-badge&logo=opera&logoColor=FF1B2D&labelColor=1B1F2B" alt="Tested on Opera"/>
   <img src="https://img.shields.io/badge/Tested%20on-Opera%20GX-1B1F2B?style=for-the-badge&logo=operagx&logoColor=FA1E4E&labelColor=1B1F2B" alt="Tested on Opera GX"/>
 </p>
@@ -48,6 +48,7 @@
 
 ## Installation
 
+### Chromium
 Manual installation - Chrome, Opera and Opera GX. No Node.js installation is required for the ready-to-use ZIP.
 
 1. Download the latest release ZIP, for example `NerzorsAudibleVolume-v0.2.0-chromium.zip` from [Releases](https://github.com/Nerzors/NerzorsAudibleVolume/releases).
@@ -60,6 +61,18 @@ Manual installation - Chrome, Opera and Opera GX. No Node.js installation is req
 The control appears between the playback buttons and the speed/chapters/bookmarks section. There is no need to click an extension icon. The extension uses its own logo.
 
 If you have downloaded the entire version folder, you can alternatively load its `extension` subfolder directly. The ZIP file is the ready-to-use extension itself, not a source code archive.
+
+### Firefox & Mullvad
+
+The Firefox package requires **Firefox and Mullvad 140 or newer**.
+
+1. Download `NerzorsAudibleVolume-v0.3.1-firefox.zip` from the matching release and extract it.
+2. Open `about:debugging#/runtime/this-firefox` in Firefox or Mullvad.
+3. Select **Load Temporary Add-on** and choose the extracted `manifest.json`.
+4. Open or reload an allowed Audible web player and now use volume, mute & dark mode.
+5. If the controls do not appear, check the extension's website access in the add-on settings.
+
+> Temporary add-ons are removed when Firefox restarts. A ZIP is **not** a permanently installable signed Firefox add-on. Normal distribution requires Mozilla signing; no signing or AMO submission is performed by this project script. See [Mozilla's temporary installation guide](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/).
 
 ## Update and Remove
 
@@ -94,6 +107,11 @@ Allowing a domain does not establish that its regional player has been tested se
 
 Version 0.2.0 was successfully tested in:
 
-- Google Chrome
+- Google Chrome (155)
 - Opera
-- Opera GX
+- Opera GX (137)
+
+whit Version 0.3.1:
+
+- Firefox
+- Mullvad Browser (140)

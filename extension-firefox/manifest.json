@@ -1,0 +1,59 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "default_locale": "en",
+  "version": "0.3.1",
+  "description": "__MSG_extensionDescription__",
+  "icons": {
+    "512": "icons/logo.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.audible.de/webplayer*",
+        "https://audible.de/webplayer*",
+        "https://www.audible.com/webplayer*",
+        "https://audible.com/webplayer*",
+        "https://www.audible.co.uk/webplayer*",
+        "https://audible.co.uk/webplayer*",
+        "https://www.audible.ca/webplayer*",
+        "https://audible.ca/webplayer*",
+        "https://www.audible.com.au/webplayer*",
+        "https://audible.com.au/webplayer*",
+        "https://www.audible.fr/webplayer*",
+        "https://audible.fr/webplayer*",
+        "https://www.audible.co.jp/webplayer*",
+        "https://audible.co.jp/webplayer*",
+        "https://www.audible.it/webplayer*",
+        "https://audible.it/webplayer*",
+        "https://www.audible.in/webplayer*",
+        "https://audible.in/webplayer*",
+        "https://www.audible.es/webplayer*",
+        "https://audible.es/webplayer*",
+        "https://www.audible.com.br/webplayer*",
+        "https://audible.com.br/webplayer*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nerzors-audible-volume@nerzors.de",
+      "strict_min_version": "140.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    },
+    "gecko_android": {
+      "strict_min_version": "142.0"
+    }
+  }
+}
