@@ -51,7 +51,7 @@
 ### Chromium
 Manual installation - Chrome, Opera and Opera GX. No Node.js installation is required for the ready-to-use ZIP.
 
-1. Download the latest release ZIP, for example `NerzorsAudibleVolume-v0.2.0-chromium.zip` from [Releases](https://github.com/Nerzors/NerzorsAudibleVolume/releases).
+1. Download the latest release ZIP, for example `NerzorsAudibleVolume-v0.3.1-chromium.zip` from [Releases](https://github.com/Nerzors/NerzorsAudibleVolume/releases).
 2. Extract the entire contents of the ZIP file into a permanent folder. Do not move or delete this folder afterward, as the browser loads the extension from that location.
 3. In Chrome, open `chrome://extensions`. In Opera and Opera GX, open `opera://extensions`.
 4. Enable **Developer mode**.
