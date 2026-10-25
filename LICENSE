@@ -1,4 +1,4 @@
-Nerzors ADDON-NC-NRD-ND License v2.0
+Nerzors NC-NRD-ND License v2.0
 (Non-Commercial / No Redistribution / No Derivatives)
 
 Applies to:
@@ -19,8 +19,7 @@ yours.
 "Software" means this addon and any of its sub-addons — code, assets,
 textures, icons, fonts, sounds, strings, layouts and configuration
 files authored by Nerzors — but EXCLUDING bundled third-party libraries
-(e.g. LibStub, LibDeflate, CallbackHandler), which remain governed by
-their own respective licenses.
+, which remain governed by their own respective licenses.
 
 
 2) What you can't do
