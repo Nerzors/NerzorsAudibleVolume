@@ -23,6 +23,9 @@
 
 <p>
   <img src="https://img.shields.io/github/v/release/Nerzors/NerzorsAudibleVolume?style=flat-square&color=252669&labelColor=1B1F2B" alt="Latest Release"/>
+  <a href="https://github.com/Nerzors/NerzorsAudibleVolume/releases" style="text-decoration: none;">
+    <img alt="downloads" src="https://img.shields.io/github/downloads/Nerzors/NerzorsAudibleVolume/total?style=flat-square&color=252669&labelColor=1B1F2B&label=Downloads" />
+  </a>
   <img src="https://img.shields.io/github/last-commit/Nerzors/NerzorsAudibleVolume?style=flat-square&color=A87CE8&labelColor=1B1F2B" alt="Last Commit"/>
   <img src="https://img.shields.io/github/issues/Nerzors/NerzorsAudibleVolume?style=flat-square&color=252669&labelColor=1B1F2B" alt="Open Issues"/>
   <img src="https://img.shields.io/github/stars/Nerzors/NerzorsAudibleVolume?style=flat-square&color=A87CE8&labelColor=1B1F2B" alt="Stars"/>
