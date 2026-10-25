@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Tested%20on-Mullvad%20Browser-1B1F2B?style=for-the-badge&labelColor=1B1F2B" alt="Tested on Mullvad Browser"/>
   <img src="https://img.shields.io/badge/Tested%20on-Opera-1B1F2B?style=for-the-badge&logo=opera&logoColor=FF1B2D&labelColor=1B1F2B" alt="Tested on Opera"/>
   <img src="https://img.shields.io/badge/Tested%20on-Opera%20GX-1B1F2B?style=for-the-badge&logo=operagx&logoColor=FA1E4E&labelColor=1B1F2B" alt="Tested on Opera GX"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Brave-1B1F2B?style=for-the-badge&logo=brave&logoColor=4285F4&labelColor=1B1F2B" alt="Tested on Brave"/>
 </p>
 
 <p>
