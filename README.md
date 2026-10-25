@@ -14,12 +14,12 @@
 
 <!-- Tested on :> -->
 <p>
-  <img src="https://img.shields.io/badge/Tested%20on-Google%20Chrome-1B1F2B?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=1B1F2B" alt="Tested on Google Chrome"/>
-  <img src="https://img.shields.io/badge/Tested%20on-Firefox-1B1F2B?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139&labelColor=1B1F2B" alt="Tested on Firefox"/>
-  <img src="https://img.shields.io/badge/Tested%20on-Mullvad%20Browser-1B1F2B?style=for-the-badge&labelColor=1B1F2B" alt="Tested on Mullvad Browser"/>
-  <img src="https://img.shields.io/badge/Tested%20on-Opera-1B1F2B?style=for-the-badge&logo=opera&logoColor=FF1B2D&labelColor=1B1F2B" alt="Tested on Opera"/>
-  <img src="https://img.shields.io/badge/Tested%20on-Opera%20GX-1B1F2B?style=for-the-badge&logo=operagx&logoColor=FA1E4E&labelColor=1B1F2B" alt="Tested on Opera GX"/>
-  <img src="https://img.shields.io/badge/Tested%20on-Brave-1B1F2B?style=for-the-badge&logo=brave&logoColor=4285F4&labelColor=1B1F2B" alt="Tested on Brave"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=1B1F2B" alt="Tested on Google Chrome"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139&labelColor=1B1F2B" alt="Tested on Firefox"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Mullvad%20Browser-FFD524?style=for-the-badge&logo=mullvad&logoColor=294D73&labelColor=1B1F2B" alt="Tested on Mullvad Browser"/><br>
+  <img src="https://img.shields.io/badge/Tested%20on-Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=FF1B2D&labelColor=1B1F2B" alt="Tested on Opera"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Opera%20GX-FA1E4E?style=for-the-badge&logo=operagx&logoColor=FA1E4E&labelColor=1B1F2B" alt="Tested on Opera GX"/>
+  <img src="https://img.shields.io/badge/Tested%20on-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=FB542B&labelColor=1B1F2B" alt="Tested on Brave"/>
 </p>
 
 <p>
